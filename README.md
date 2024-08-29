@@ -11,3 +11,6 @@ Function RashidSort(a: Array of Integers):
     
     Copy elements from list b back to array a
 End Function
+
+Time Complexity - O(n^2)
+Space Complexity - O(n)
